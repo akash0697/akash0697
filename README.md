@@ -22,10 +22,10 @@
 
 ###
 
-<p align="left">I am passionate about transforming raw data into meaningful insights, leveraging analytics to drive business decisions, and optimizing processes through data-driven strategies. With expertise in Python, SQL, Machine Learning, and Data Visualization, I have worked on various projects in business analytics, AI, and cloud computing, helping organizations make informed, data-backed decisions.<br><br>
-In today’s world of data deluge, I believe that the right approach to analytics can unlock immense potential. By applying my skills in data modeling, forecasting, and predictive analytics, I strive to help businesses enhance efficiency, improve decision-making, and gain a competitive edge.<br><br>
-I am currently pursuing my Master’s in Business Analytics at <a href="https://www.asu.edu/">Arizona State University</a>, where I continue to expand my knowledge in advanced analytics, cloud technologies, and machine learning applications. My experience spans across recommendation systems, customer churn analysis, and AI-powered insights, with a strong foundation in Power BI, Tableau, AWS, and data architecture.<br><br>
-When I’m not working or studying, I love to travel ✈️, explore nature 🏕️, sketch 🎨, and stay active in the gym 🏋️‍♂️.<br><br>🔍 What I Do<br><br>📊 Analyze Business & Marketing Data to uncover trends and drive strategic decisions<br>📈 Develop Data-Driven Dashboards & Reports using Power BI, Tableau, and SQL<br>🔄 Automate Data Processes for operational efficiency and reporting optimization<br>📡 Work with Large Datasets & Databases to extract actionable insights<br>🤖 Leverage Machine Learning & Predictive Analytics for business problem-solving<br>☁️ Explore Cloud-Based Data Solutions (Azure, AWS) for scalable analytics<br><br>🌱 Currently Learning<br><br>Advanced Data Analytics & Business Intelligence<br>Cloud Data Engineering (Azure, AWS)<br>Applied Machine Learning for Business Optimization<br>NLP and AI-Powered Data Solutions<br><br>📫 Check Out!<br><br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/ayush-trivedi96/">Click Here</a><br>🤝 Handshake Profile: <a href="https://asu.joinhandshake.com/profiles/wpg44z">Click Here</a><br>📊 Tableau Portfolio:<a href="https://public.tableau.com/app/profile/ayush.trivedi8469/vizzes"> Click Here</a></p>
+<p align="left">I am deeply passionate about converting raw data into actionable insights, utilizing analytics to inform business decisions, and enhancing processes through data-driven strategies. With proficiency in Python, SQL, Machine Learning, and Data Visualization, I have contributed to diverse projects in business and data analytics, Data Science, and cloud computing, enabling organizations to make well-informed, data-driven decisions.<br><br>
+In today's data-rich landscape, leveraging the right analytical approach can unlock significant value. By utilizing my expertise in data modeling, forecasting, and predictive/descriptive analytics, I aim to empower businesses to optimize efficiency, make informed decisions, and maintain a competitive advantage.<br><br>
+I am currently pursuing my Master’s in Business Analytics at <a href="https://www.asu.edu/">Arizona State University</a>, where I continue to expand my knowledge in advanced analytics, cloud technologies, and machine learning applications. My experience spans across healthcare and patient-level analytics, building dashboards and cloud solutions and AI-powered insights, with a strong foundation in Tableau, AWS, and data architecture.<br><br>
+When I’m not working or studying, I love to travel ✈️, and stay active in the gym 🏋️‍♂️.<br><br>🔍 What I Do<br><br>📊 Analyze Business & Marketing Data to uncover trends and drive strategic decisions<br>📈 Develop Data-Driven Dashboards & Reports using Power BI, Tableau, and SQL<br>🔄 Automate Data Processes for operational efficiency and reporting optimization<br>📡 Work with Large Datasets & Databases to extract actionable insights<br>🤖 Leverage Machine Learning & Predictive/Descriptive Analytics for business problem-solving<br>☁️ Explore Cloud-Based Data Solutions (AWS) for scalable analytics<br><br>🌱 Currently Learning<br><br>Advanced Data Analytics & Business Intelligence<br>Cloud Data Engineering (AWS)<br>Applied Machine Learning for Business Optimization<br>NLP and AI-Powered Data Solutions<br><br>📫 Check Out!<br><br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/akash-network/">Click Here</a><br>🤝 Handshake Profile: <a href="https://asu.joinhandshake.com/profiles/zcr9s3">Click Here</a><br>
 
 ###
 
@@ -46,21 +46,11 @@ When I’m not working or studying, I love to travel ✈️, explore nature 🏕
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="40" alt="Tableau logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
